@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Super Aulas Online\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Super Aulas Online\\.nuget\\packages"
+    ]
+  }
+}
